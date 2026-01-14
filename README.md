@@ -43,4 +43,5 @@ The research papers included in this repository (found in the `/Volatility regim
 **Arefin Shibly**
 * **MBA in Banking and Insurance**
 * Focus: Financial Econometrics, Risk Analytics, and Market Dynamics.
-* [Contact Me](arefin.shibly20@gmail.com)
+* [arefin.shibly20@gmail.com]
+* WhatsApp +8801708518251
